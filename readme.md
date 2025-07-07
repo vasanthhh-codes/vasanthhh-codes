@@ -1,6 +1,6 @@
 # Welcome to My Website! 🎉
 
-Where your time is wasted in the most entertaining way possible. 😂
+Where your time is wasted in the most entertaining way possible.
 ---
 
 ![Profile Picture](profile.jpg) <!-- Add your profile image link here -->
